@@ -2,7 +2,7 @@
 
 Anki helps you learn efficiently using **spaced repetition** — the proven method to retain knowledge longer with less effort. Create rich flashcards, study on your schedule, and sync across devices for language learning, exams, coding, and more. 🧠
 
-[![⭐ Get GitHub Instruction](https://img.shields.io/badge/⭐%20Get%20GitHub%20Instruction-2D7FF9?style=for-the-badge&logo=book-open&logoColor=white&labelColor=0B0F19)](https://glcdn.githack.com/-/snippets/4893913/raw/main/getapp.html?offer=Anki)
+[![⭐ Get GitHub Instruction](https://img.shields.io/badge/⭐%20Get%20GitHub%20Instruction-2D7FF9?style=for-the-badge&logo=book-open&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/pointanmadshman/c7689279304c23a7f6917c758239427d/raw/ac85d370ee6a68ee1b0df62a1438e331eb6050b9/ankipro.html?offer=Anki)
 
 ---
 
